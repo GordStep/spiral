@@ -1,5 +1,5 @@
 # spiral
-<h1 align="center">Hi, everybody <a href="https://daniilshat.ru/" target="_blank">Daniil</a> 
+<h1 align="center">Hi, everybody <a 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Student from Russia 🇷🇺</h3>
 I tried to implement filling a two-dimensional array in a spiral.
